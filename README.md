@@ -1,8 +1,7 @@
-<p align="center" style="margin-bottom: 0;">
-  <img src="figures/NSFA_logo.png" width="150" alt="SingGuard-NSFA Logo"/>
-</p>
-
-<h1 align="center" style="margin-top: 0;">SingGuard-NSFA: Extensible Guardrails for Agentic AI<br>via Generative Reasoning and Real-Time Classification</h1>
+<div align="center">
+  <img src="figures/NSFA_logo.png" width="200" alt="SingGuard-NSFA Logo"/><br>
+  <h1 style="margin-top: 0;">SingGuard-NSFA: Extensible Guardrails for Agentic AI<br>via Generative Reasoning and Real-Time Classification</h1>
+</div>
 
 <div align="center">
 
