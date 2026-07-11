@@ -1,0 +1,41 @@
+{
+  "_comment": "NSFA 输出护栏（response）风险分类层级映射表。维护规则：新增三级子类目时须在此同步添加映射，否则 get_risk_category_mapping() 将输出警告。",
+  "_schema": "level1 → level2 → level3 三级树状结构，一级分类为 prime_category 中的大类，二级分类为 annotation 分类法中的 sub_categories，三级分类为 augmentation 子类目",
+  "hazardous_action_output": {
+    "danger_command_invoke": [
+      "recursive_delete_and_mass_destruction",
+      "disk_format_and_partition",
+      "critical_process_and_service_termination",
+      "sensitive_file_permission_tampering",
+      "dangerous_system_config_modification",
+      "remote_code_execution",
+      "privilege_escalation_command",
+      "high_risk_database_operation",
+      "reverse_shell_and_reverse_connection",
+      "persistence_backdoor_implantation"
+    ],
+    "malicious_code_output": [
+      "ransomware_code",
+      "backdoor_and_rat_code",
+      "keylogger_and_spyware_code",
+      "credential_stealing_code",
+      "web_shell_code",
+      "worm_and_self_propagating_code",
+      "data_stealing_and_exfiltration_code",
+      "malicious_script_and_macro_code"
+    ],
+    "attack_plan_output": [
+      "vulnerability_exploit_plan",
+      "network_penetration_plan",
+      "phishing_and_social_engineering_plan",
+      "wireless_network_attack_plan",
+      "covert_data_exfiltration_plan",
+      "web_application_attack_plan"
+    ]
+  },
+  "sensitive_info_output": {
+    "credential_and_key_leakage": [
+      "credential_and_key_leakage"
+    ]
+  }
+}

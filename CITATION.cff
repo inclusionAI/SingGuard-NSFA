@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+title: "SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification"
+message: "If you use SingGuard-NSFA, please cite the following work."
+type: article
+authors:
+  - family-names: Li
+    given-names: Hongcheng
+  - family-names: Yi
+    given-names: Sibo
+  - family-names: Liao
+    given-names: Bingyan
+  - family-names: Fu
+    given-names: Kaiwen
+  - family-names: Xiong
+    given-names: Run
+  - family-names: Wu
+    given-names: Chen
+  - family-names: Yin
+    given-names: Shenglin
+  - family-names: Li
+    given-names: Zongyi
+  - family-names: Bai
+    given-names: Yichen
+  - family-names: He
+    given-names: Liangbo
+  - family-names: Lan
+    given-names: Jun
+  - family-names: Cui
+    given-names: Shiwen
+  - family-names: Meng
+    given-names: Changhua
+  - family-names: Wang
+    given-names: Weiqiang
+keywords:
+  - guardrail
+  - agent-security
+  - agentic-ai
+  - prompt-injection
+  - jailbreak-detection
+  - risk-classification
+  - nsfa
+  - multilingual
+date-released: "2026-06-17"
+url: "https://arxiv.org/abs/2606.22873"
+preferred-citation:
+  type: article
+  title: "SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification"
+  authors:
+    - family-names: Li
+      given-names: Hongcheng
+    - family-names: Yi
+      given-names: Sibo
+    - family-names: Liao
+      given-names: Bingyan
+    - family-names: Fu
+      given-names: Kaiwen
+    - family-names: Xiong
+      given-names: Run
+    - family-names: Wu
+      given-names: Chen
+    - family-names: Yin
+      given-names: Shenglin
+    - family-names: Li
+      given-names: Zongyi
+    - family-names: Bai
+      given-names: Yichen
+    - family-names: He
+      given-names: Liangbo
+    - family-names: Lan
+      given-names: Jun
+    - family-names: Cui
+      given-names: Shiwen
+    - family-names: Meng
+      given-names: Changhua
+    - family-names: Wang
+      given-names: Weiqiang
+  year: 2026
+  url: "https://arxiv.org/abs/2606.22873"
