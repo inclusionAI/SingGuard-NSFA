@@ -7,9 +7,11 @@
 
 **SingGuard Team, AI Security Lab, Ant Group**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:2606.22873-red.svg)](https://arxiv.org/abs/2606.22873)
+[![Paper](https://img.shields.io/badge/Paper-arXiv%20(uploading)-red.svg)](https://arxiv.org/abs/2606.22873)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow.svg)](https://huggingface.co/collections/inclusionAI/singguard-nsfa)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Collection-blue.svg)](https://modelscope.cn/collections/inclusionAI/SingGuard-NSFA)
+
+> **Note:** The paper is currently being uploaded to arXiv. The link may not be accessible yet.
 
 </div>
 
@@ -149,7 +151,6 @@ If you find SingGuard-NSFA helpful, please cite our work:
 @article{singguard2026nsfa,
   title     = {SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification},
   author    = {Li, Hongcheng and Yi, Sibo and Liao, Bingyan and Fu, Kaiwen and Xiong, Run and Wu, Chen and Yin, Shenglin and Li, Zongyi and Bai, Yichen and He, Liangbo and Lan, Jun and Cui, Shiwen and Meng, Changhua and Wang, Weiqiang},
-  year      = {2026},
-  url       = {https://arxiv.org/abs/2606.22873}
+  year      = {2026}
 }
 ```
