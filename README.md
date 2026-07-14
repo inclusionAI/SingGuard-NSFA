@@ -1,6 +1,7 @@
 <div align="center">
   <img src="figures/NSFA_logo.png" width="200" alt="SingGuard-NSFA Logo"/><br>
-  <h1 style="margin-top: 0;">SingGuard-NSFA: Extensible Guardrails for Agentic AI<br>via Generative Reasoning and Real-Time Classification</h1>
+  <h1 style="margin-top: 0;">SingGuard-NSFA</h1>
+  <h3>Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification</h3>
 </div>
 
 <div align="center">
@@ -11,10 +12,10 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow.svg)](https://huggingface.co/collections/inclusionAI/singguard-nsfa)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Collection-blue.svg)](https://modelscope.cn/collections/inclusionAI/SingGuard-NSFA)
 
+</div>
+
 > **Note:** The paper is currently being uploaded to arXiv. The link may not be accessible yet.
 > In the meantime, the PDF version is available as [`SingGuard_NSFA_Tech_Report.pdf`](./SingGuard_NSFA_Tech_Report.pdf) in this repository.
-
-</div>
 
 ---
 
@@ -105,11 +106,11 @@ A four-stage pipeline leveraging **74 open-source LLMs** produces diverse, multi
 
 | Resource | Parameters | Base Model | Download |
 |:---:|:---:|:---:|:---:|
-| SingGuard-NSFA-0.8B | 0.8B | Qwen3.5-0.8B | [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-0.8B) [![MS](https://img.shields.io/badge/MS-0.8B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-0.8B) |
-| SingGuard-NSFA-2B | 2B | Qwen3.5-2B | [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-2B) [![MS](https://img.shields.io/badge/MS-2B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-2B) |
-| SingGuard-NSFA-4B | 4B | Qwen3.5-4B | [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-4B) [![MS](https://img.shields.io/badge/MS-4B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-4B) |
-| SingGuard-NSFA-9B | 9B | Qwen3.5-9B | [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-9B) [![MS](https://img.shields.io/badge/MS-9B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-9B) |
-| SingGuard-NSFA-Benchmark | — | — | [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/datasets/inclusionAI/NSFA_Benchmarks) [![MS](https://img.shields.io/badge/MS-Benchmark-blue.svg)](https://www.modelscope.cn/datasets/inclusionAI/NSFA_Benchmarks) |
+| SingGuard-NSFA-0.8B | 0.8B | Qwen3.5-0.8B | <div align="left">[![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-0.8B) [![HF-GGUF](https://img.shields.io/badge/%F0%9F%A4%97-HF--GGUF-olive.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-0.8B-GGUF) [![MS](https://img.shields.io/badge/MS-0.8B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-0.8B)</div> |
+| SingGuard-NSFA-2B | 2B | Qwen3.5-2B | <div align="left">[![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-2B) [![HF-GGUF](https://img.shields.io/badge/%F0%9F%A4%97-HF--GGUF-olive.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-2B-GGUF) [![MS](https://img.shields.io/badge/MS-2B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-2B)</div> |
+| SingGuard-NSFA-4B | 4B | Qwen3.5-4B | <div align="left">[![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-4B) [![HF-GGUF](https://img.shields.io/badge/%F0%9F%A4%97-HF--GGUF-olive.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-4B-GGUF) [![MS](https://img.shields.io/badge/MS-4B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-4B)</div> |
+| SingGuard-NSFA-9B | 9B | Qwen3.5-9B | <div align="left">[![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-9B) [![HF-GGUF](https://img.shields.io/badge/%F0%9F%A4%97-HF--GGUF-olive.svg)](https://huggingface.co/inclusionAI/SingGuard-NSFA-9B-GGUF) [![MS](https://img.shields.io/badge/MS-9B-blue.svg)](https://modelscope.cn/models/inclusionAI/SingGuard-NSFA-9B)</div> |
+| SingGuard-NSFA-Benchmark | — | — | <div align="left">[![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF-yellow.svg)](https://huggingface.co/datasets/inclusionAI/NSFA_Benchmarks) [![MS](https://img.shields.io/badge/MS-Benchmark-blue.svg)](https://www.modelscope.cn/datasets/inclusionAI/NSFA_Benchmarks)</div> |
 
 All variants support both **generative reasoning** and **real-time classification** modes.
 
