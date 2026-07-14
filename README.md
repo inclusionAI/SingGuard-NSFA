@@ -11,7 +11,7 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow.svg)](https://huggingface.co/collections/inclusionAI/singguard-nsfa)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Collection-blue.svg)](https://modelscope.cn/collections/inclusionAI/SingGuard-NSFA)
 
-> **Note:** The paper is currently being uploaded to arXiv. The link may not be accessible yet.
+> **Note:** The paper is currently being uploaded to arXiv. The link may not be accessible yet. In the meantime, the PDF version is available as [`SingGuard_NSFA_Tech_Report.pdf`](./SingGuard_NSFA_Tech_Report.pdf) in this repository.
 
 </div>
 
