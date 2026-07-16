@@ -41,7 +41,7 @@ keywords:
   - nsfa
   - multilingual
 date-released: "2026-06-17"
-url: "https://arxiv.org/abs/2606.22873"
+url: "https://arxiv.org/abs/2607.13081"
 preferred-citation:
   type: article
   title: "SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification"
@@ -75,4 +75,4 @@ preferred-citation:
     - family-names: Wang
       given-names: Weiqiang
   year: 2026
-  url: "https://arxiv.org/abs/2606.22873"
+  url: "https://arxiv.org/abs/2607.13081"
